@@ -8,7 +8,8 @@
 </p>
 
 [![Location](https://img.shields.io/badge/Location-Adelaide%2C%20Australia%20🇦🇺-181717?style=for-the-badge&logo=google-maps)](https://github.com/shahrukh-hack)
-[![Specialty](https://img.shields.io/badge/Focus-AI%20Development%20%26%20Design%20Engineering-FF0055?style=for-the-badge&logo=framer)](https://github.com/shahrukh-hack)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Development%20%26%20Design%20Engineering-FF0055?style=for-the-badge&logo=framer)](https://github.com/shahrukh-hack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogeshkumar%20Patel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogeshkumar-patel-95826461/)
 [![Profile Views](https://komarev.com/ghpvc/?username=shahrukh-hack&style=for-the-badge&color=2563EB&label=Profile%20Views)](https://github.com/shahrukh-hack)
 
 <br />
@@ -176,8 +177,12 @@ Open For: High-Impact AI Projects, Consultations & Full-Stack Collaboration
 
 <div align="center">
   <p><b>Interested in collaborating or building high-taste AI products?</b></p>
+  <a href="https://www.linkedin.com/in/yogeshkumar-patel-95826461/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/shahrukh-hack">
-    <img src="https://img.shields.io/badge/Connect-GitHub%20Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-@shahrukh--hack-181717?style=for-the-badge&logo=github" />
   </a>
   <br /><br />
   <sub>Designed with intention by Yogeshkumar Patel • Adelaide, South Australia 🇦🇺</sub>
