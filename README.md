@@ -31,6 +31,34 @@ I am a **Web & Marketing Coordinator at HYKA Technology** and an **AI Developer 
 
 ---
 
+## 🏄‍♂️ The Vibe Coder's Power Trilogy
+
+A complete open-source developer ecosystem engineered to empower modern **Vibe Coders** and autonomous AI agents with **impeccable visual taste, persistent long-term memory, and battle-tested guardrails**:
+
+```
+                            ┌────────────────────────────────────────┐
+                            │      THE VIBE CODER'S POWER TRILOGY    │
+                            └───────────────────┬────────────────────┘
+                                                │
+          ┌─────────────────────────────────────┼─────────────────────────────────────┐
+          ▼                                     ▼                                     ▼
+┌───────────────────┐                 ┌───────────────────┐                 ┌───────────────────┐
+│ 🪄 VIBE SUPERKIT  │                 │  🧠 VIBE MEMORY   │                 │  ⚡ VIBE SKILLS   │
+│   "The Visuals"   │                 │    "The Brain"    │                 │ "The Guardrails"  │
+├───────────────────┤                 ├───────────────────┤                 ├───────────────────┤
+│ • Anti-AI Slop    │                 │ • Long-Term Memory│                 │ • 15 Standard     │
+│ • Spring Physics  │                 │ • Cross-Agent     │                 │   Agent Skills    │
+│ • 4 Design Themes │                 │   Handoffs        │                 │ • Clarify & Guard │
+│ • Primitives      │                 │ • 97% Token Save  │                 │ • PR Auto-Triage  │
+└───────────────────┘                 └───────────────────┘                 └───────────────────┘
+```
+
+1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) by providing Emil Kowalski spring curves, 4 curated design themes, and high-taste UI primitives. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
+2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" on conversation resets, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%** via AST symbol indexing. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
+3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* A mega-library of 15 standard agent skills (`agentskills.io`) including task intake clarification (`clarify-confirm-continue`), anti-slop PR auditing, sidequest tangency isolation, and ERP pricing sync.
+
+---
+
 ## 🌟 Public Flagship Applications & Open-Source Tools
 
 | Project | GitHub Repository | 🌐 Standalone Live Demo | Description |
