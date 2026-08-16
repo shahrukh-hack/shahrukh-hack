@@ -36,6 +36,7 @@ I am a **Web & Marketing Coordinator at HYKA Technology** and an **AI Developer 
 | Project | GitHub Repository | 🌐 Standalone Live Demo | Description |
 | :--- | :--- | :--- | :--- |
 | **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders & Antigravity agents. |
+| **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Cross-Agent Handoff Protocol for AI Coding Agents. |
 | **📈 Lakshmi AI** | [`shahrukh-hack/lakhsmiAI`](https://github.com/shahrukh-hack/lakhsmiAI) | **[Live Demo](https://shahrukh-hack.github.io/lakhsmiAI/)** | Stock market forecasting & financial intelligence dashboard with ApexCharts. |
 | **🌬️ LCA Wind Turbine** | [`shahrukh-hack/LCA-bolt`](https://github.com/shahrukh-hack/LCA-bolt) | **[Live Demo](https://shahrukh-hack.github.io/LCA-bolt/)** | Wind turbine Life Cycle Assessment with D3 Sankey carbon flow diagrams. |
 | **🌐 Siddheshwar Sai Infotech** | [`shahrukh-hack/ssi`](https://github.com/shahrukh-hack/ssi) | **[Live Demo](https://shahrukh-hack.github.io/ssi/)** | Enterprise IT consulting, cloud infrastructure, and AI solutions web portal. |
