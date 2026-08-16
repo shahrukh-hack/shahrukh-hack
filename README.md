@@ -96,12 +96,21 @@ graph LR
 
 ---
 
-### ⚙️ 4. Precision CNC Manufacturing Portal (`cncnew-website`)
-> **Domain:** Industrial Manufacturing & Engineering CAD Requests
+### 🏢 4. CNC Corporate IT Services & E-Commerce Platform (`cncnew-website`)
+> **Domain:** Enterprise Managed IT, Disaster Recovery, Cloud Security & IT Hardware Shop (Adelaide, SA)
 
-* **The Challenge:** Manufacturing clients needed a streamlined portal to request CNC machining quotes, review technical specifications, and track order fulfillment.
-* **The Solution:** Engineered a responsive engineering service portal featuring interactive service catalogs, instant quotation workflows, and material specifications.
-* **Tech Stack:** `HTML5` • `Tailwind CSS` • `JavaScript` • `Vite`
+* **The Challenge:** An established South Australian managed IT service provider needed a modern, high-performance web portal integrating enterprise service catalogs (Disaster Recovery, Network Management, Server Solutions), live hardware inventory feeds, automated quote generators, and an intelligent AI customer support chat engine.
+* **The Solution:** Architected a comprehensive full-stack corporate portal featuring dynamic product catalogs (`products.json`), automated inventory feed synchronizers (`sync_feed.php`), instant quote generation workflows (`send_quote.php`), customer survey engines, and an integrated AI support assistant (`ai_chat.php`).
+* **Tech Stack:** `PHP Backend` • `JavaScript (ES6+)` • `Tailwind CSS` • `REST Endpoints` • `AI Chatbot Integration` • `Automated Survey Engines`
+
+```mermaid
+graph LR
+    A[Adelaide Enterprise Clients] -->|Corporate Web Portal| B[CNC Services Engine]
+    B --> C[ai_chat.php / AI Customer Support]
+    B --> D[sync_feed.php / Hardware Catalog Sync]
+    B --> E[send_quote.php / Enterprise Quote Engine]
+    B --> F[Managed IT, Disaster Recovery & Cloud Security]
+```
 
 ---
 
@@ -111,7 +120,7 @@ graph LR
 | :--- | :--- |
 | **Frontend & Design** | `React 19` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI` `Lenis` `D3.js` `VisX` |
 | **AI & LLM Workflows** | `Autonomous Agents` `RAG Pipelines` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
-| **Backend & Automation** | `Python` `FastAPI` `Node.js` `REST APIs` `PostgreSQL` `Data Scraping & Sync` `MYOB API` |
+| **Backend & Automation** | `Python` `FastAPI` `PHP` `Node.js` `REST APIs` `PostgreSQL` `Data Scraping & Sync` `MYOB API` |
 | **Tooling & Cloud** | `Git` `GitHub Actions` `Docker` `Vite` `VS Code` `Cursor` `Linux` `Terminal` |
 
 ---
