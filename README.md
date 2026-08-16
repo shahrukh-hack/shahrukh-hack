@@ -27,77 +27,6 @@ I am an AI developer and design engineer based in **Adelaide, South Australia**,
 
 ---
 
-## 🏛️ Enterprise Systems & Private Project Case Studies
-
-Below are architectural breakdowns and **live interactive demo sandboxes** of proprietary and commercial systems engineered by Yogeshkumar Patel:
-
----
-
-### 💼 Case Study 1: Enterprise ERP & Competitor Price Sync (`myob_price_sync` & `competitor_price_tracker`)
-> **Domain:** E-Commerce, Wholesale & Retail Pricing Intelligence  
-> **[▶ Launch Live Interactive Simulator](https://shahrukh-hack.github.io/vibe-superkit/#interactive-demos)**
-
-* **The Challenge:** Retailers lost revenue from lagging competitor price adjustments and manual inventory entry into MYOB ERP.
-* **The Solution:** Built a distributed headless scraping engine with relational persistence that continuously monitors market price deltas and automatically synchronizes price updates via the MYOB Cloud REST API.
-* **Tech Stack:** `Python` • `FastAPI` • `PostgreSQL` • `MYOB API Webhooks` • `Playwright`
-
-```mermaid
-graph LR
-    A[Competitor SKUs] -->|Automated Scraper| B[Data Normalizer Engine]
-    B --> C[(Relational DB)]
-    C --> D[Price Delta Margin Analyzer]
-    D -->|REST API Webhook| E[MYOB Enterprise ERP]
-    D -->|Simulated Demo| F[Live Interactive Sandbox]
-```
-
----
-
-### 🚗 Case Study 2: South Australia Smart Fleet & Driver Hub (`sa-drive-smart-hub`)
-> **Domain:** Regional Mobility, Logistics & Transport Compliance (Adelaide, SA)  
-> **[▶ Launch Live Interactive Simulator](https://shahrukh-hack.github.io/vibe-superkit/#interactive-demos)**
-
-* **The Challenge:** Dispatchers required real-time corridor monitoring, driver duty compliance, and incident telemetry across South Australian transport routes.
-* **The Solution:** Engineered a responsive fleet management platform featuring dynamic route corridor filtering, status metrics, and geofencing telemetry.
-* **Tech Stack:** `React 18` • `TypeScript` • `Tailwind CSS` • `Mapbox/Leaflet` • `Lucide`
-
-```mermaid
-graph LR
-    A[SA Route Corridors] -->|GPS Telemetry| B[Live Ingestion Hub]
-    B --> C[Compliance & Safety Matrix]
-    C --> D[Dispatcher Central Console]
-    C -->|Simulated Demo| E[Interactive Corridor Console]
-```
-
----
-
-### 🌬️ Case Study 3: Aerodynamic Airflow & Turbine Analytics (`wind-flow-insights`)
-> **Domain:** Renewable Energy & Environmental Modeling  
-> **[▶ Launch Live Interactive Simulator](https://shahrukh-hack.github.io/vibe-superkit/#interactive-demos)**
-
-* **The Challenge:** Stakeholders needed an intuitive interface to model wind turbine power yields based on real-time meteorological vector fields.
-* **The Solution:** Developed a mathematical vector animation dashboard that simulates laminar wind velocity, turbine efficiency curves, and estimated power generation (MW).
-* **Tech Stack:** `React` • `TypeScript` • `D3.js` • `Vector Mathematics` • `Tailwind CSS`
-
-```mermaid
-graph LR
-    A[Meteorological Sensors] -->|Wind Velocity & Vectors| B[Aerodynamic Engine]
-    B --> C[Turbine Efficiency Model]
-    C --> D[Power Yield Forecast MW]
-    C -->|Simulated Demo| E[Interactive Flow Visualizer]
-```
-
----
-
-### ⚙️ Case Study 4: Precision CNC Manufacturing & Client Portal (`cncnew-website`)
-> **Domain:** Industrial Manufacturing & Engineering CAD Requests  
-> **[▶ Launch Live Interactive Simulator](https://shahrukh-hack.github.io/vibe-superkit/#interactive-demos)**
-
-* **The Challenge:** Manufacturing clients needed a streamlined portal to request CNC machining quotes, review technical specifications, and track order fulfillment.
-* **The Solution:** Engineered a responsive engineering service portal featuring interactive service catalogs, instant quotation workflows, and material specifications.
-* **Tech Stack:** `HTML5` • `Tailwind CSS` • `JavaScript` • `Vite`
-
----
-
 ## 🌟 Public Flagship Applications & Live Demos
 
 | Project | GitHub Repository | 🌐 Standalone Live Demo | Description |
@@ -109,6 +38,70 @@ graph LR
 | **📄 Document Similarity** | [`shahrukh-hack/similarity-new`](https://github.com/shahrukh-hack/similarity-new) | **[Live Demo](https://shahrukh-hack.github.io/similarity-new/)** | Semantic document comparison, text overlap analysis, and plagiarism verification. |
 | **🛡️ AI Content Detector** | [`shahrukh-hack/AI-detection`](https://github.com/shahrukh-hack/AI-detection) | **[Live Demo](https://shahrukh-hack.github.io/AI-detection/)** | Real-time linguistic perplexity and synthetic vs human text detection platform. |
 | **🤖 Awesome LLM Apps** | [`shahrukh-hack/awesome-llm-apps`](https://github.com/shahrukh-hack/awesome-llm-apps) | [`GitHub`](https://github.com/shahrukh-hack/awesome-llm-apps) | Production LLM applications, autonomous agent workflows, and RAG architectures. |
+
+---
+
+## 🏛️ Enterprise Systems Architecture (Commercial Portfolio)
+
+Below are architectural breakdowns and technical specifications for proprietary enterprise systems engineered by Yogeshkumar Patel:
+
+---
+
+### 💼 1. Enterprise ERP & Competitor Price Sync (`myob_price_sync` & `competitor_price_tracker`)
+> **Domain:** E-Commerce, Wholesale & Retail Pricing Intelligence
+
+* **The Challenge:** Retailers lost revenue from lagging competitor price adjustments and manual inventory entry into MYOB ERP.
+* **The Solution:** Built a distributed headless scraping engine with relational persistence that continuously monitors market price deltas and automatically synchronizes price updates via the MYOB Cloud REST API.
+* **Tech Stack:** `Python` • `FastAPI` • `PostgreSQL` • `MYOB API Webhooks` • `Playwright`
+
+```mermaid
+graph LR
+    A[Competitor SKUs] -->|Automated Scraper| B[Data Normalizer Engine]
+    B --> C[(Relational DB)]
+    C --> D[Price Delta Margin Analyzer]
+    D -->|REST API Webhook| E[MYOB Enterprise ERP]
+```
+
+---
+
+### 🚗 2. South Australia Smart Fleet & Driver Hub (`sa-drive-smart-hub`)
+> **Domain:** Regional Mobility, Logistics & Transport Compliance (Adelaide, SA)
+
+* **The Challenge:** Dispatchers required real-time corridor monitoring, driver duty compliance, and incident telemetry across South Australian transport routes.
+* **The Solution:** Engineered a responsive fleet management platform featuring dynamic route corridor filtering, status metrics, and geofencing telemetry.
+* **Tech Stack:** `React 18` • `TypeScript` • `Tailwind CSS` • `Mapbox/Leaflet` • `Lucide`
+
+```mermaid
+graph LR
+    A[SA Route Corridors] -->|GPS Telemetry| B[Live Ingestion Hub]
+    B --> C[Compliance & Safety Matrix]
+    C --> D[Dispatcher Central Console]
+```
+
+---
+
+### 🌬️ 3. Aerodynamic Airflow & Turbine Yield Analytics (`wind-flow-insights`)
+> **Domain:** Renewable Energy & Environmental Modeling
+
+* **The Challenge:** Stakeholders needed an intuitive interface to model wind turbine power yields based on real-time meteorological vector fields.
+* **The Solution:** Developed a mathematical vector animation dashboard that simulates laminar wind velocity, turbine efficiency curves, and estimated power generation (MW).
+* **Tech Stack:** `React` • `TypeScript` • `D3.js` • `Vector Mathematics` • `Tailwind CSS`
+
+```mermaid
+graph LR
+    A[Meteorological Sensors] -->|Wind Velocity & Vectors| B[Aerodynamic Engine]
+    B --> C[Turbine Efficiency Model]
+    C --> D[Power Yield Forecast MW]
+```
+
+---
+
+### ⚙️ 4. Precision CNC Manufacturing Portal (`cncnew-website`)
+> **Domain:** Industrial Manufacturing & Engineering CAD Requests
+
+* **The Challenge:** Manufacturing clients needed a streamlined portal to request CNC machining quotes, review technical specifications, and track order fulfillment.
+* **The Solution:** Engineered a responsive engineering service portal featuring interactive service catalogs, instant quotation workflows, and material specifications.
+* **Tech Stack:** `HTML5` • `Tailwind CSS` • `JavaScript` • `Vite`
 
 ---
 
