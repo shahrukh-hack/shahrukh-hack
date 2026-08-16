@@ -31,31 +31,32 @@ I am a **Web & Marketing Coordinator at HYKA Technology** and an **AI Developer 
 
 ---
 
-## 🏄‍♂️ The Vibe Coder's Power Trilogy
+## 🏄‍♂️ The Vibe Coder's Power Suite (4 Flagship Open-Source Engines)
 
-A complete open-source developer ecosystem engineered to empower modern **Vibe Coders** and autonomous AI agents with **impeccable visual taste, persistent long-term memory, and battle-tested guardrails**:
+A complete open-source developer ecosystem engineered to empower modern **Vibe Coders** and autonomous AI agents with **impeccable visual taste, persistent memory, battle-tested guardrails, and autonomous team orchestration**:
 
 ```
-                            ┌────────────────────────────────────────┐
-                            │      THE VIBE CODER'S POWER TRILOGY    │
-                            └───────────────────┬────────────────────┘
-                                                │
-          ┌─────────────────────────────────────┼─────────────────────────────────────┐
-          ▼                                     ▼                                     ▼
-┌───────────────────┐                 ┌───────────────────┐                 ┌───────────────────┐
-│ 🪄 VIBE SUPERKIT  │                 │  🧠 VIBE MEMORY   │                 │  ⚡ VIBE SKILLS   │
-│   "The Visuals"   │                 │    "The Brain"    │                 │ "The Guardrails"  │
-├───────────────────┤                 ├───────────────────┤                 ├───────────────────┤
-│ • Anti-AI Slop    │                 │ • Long-Term Memory│                 │ • 15 Standard     │
-│ • Spring Physics  │                 │ • Cross-Agent     │                 │   Agent Skills    │
-│ • 4 Design Themes │                 │   Handoffs        │                 │ • Clarify & Guard │
-│ • Primitives      │                 │ • 97% Token Save  │                 │ • PR Auto-Triage  │
-└───────────────────┘                 └───────────────────┘                 └───────────────────┘
+                                    ┌────────────────────────────────────────┐
+                                    │       THE VIBE CODER'S POWER SUITE     │
+                                    └───────────────────┬────────────────────┘
+                                                        │
+         ┌──────────────────────────────┬───────────────┴──────────────┬──────────────────────────────┐
+         ▼                              ▼                              ▼                              ▼
+┌───────────────────┐          ┌───────────────────┐          ┌───────────────────┐          ┌───────────────────┐
+│ 🪄 VIBE SUPERKIT  │          │  🧠 VIBE MEMORY   │          │  ⚡ VIBE SKILLS   │          │  🤖 VIBE AGENCY   │
+│   "The Visuals"   │          │    "The Brain"    │          │ "The Guardrails"  │          │ "The Orchestrator"│
+├───────────────────┤          ├───────────────────┤          ├───────────────────┤          ├───────────────────┤
+│ • Anti-AI Slop    │          │ • Long-Term Memory│          │ • 16 Standard     │          │ • Multi-Agent     │
+│ • Spring Physics  │          │ • Cross-Agent     │          │   Agent Skills    │          │   Teams & Roles   │
+│ • 4 Design Themes │          │   Handoffs        │          │ • Clarify & Guard │          │ • Inter-Agent     │
+│ • UI Primitives   │          │ • 97% Token Save  │          │ • Code Review 20+ │          │   Inbox & Cron    │
+└───────────────────┘          └───────────────────┘          └───────────────────┘          └───────────────────┘
 ```
 
-1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) by providing Emil Kowalski spring curves, 4 curated design themes, and high-taste UI primitives. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
+1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) with Emil Kowalski spring physics, 4 design themes, and high-taste UI primitives. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
 2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" on conversation resets, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%** via AST symbol indexing. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
-3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* A mega-library of 15 standard agent skills (`agentskills.io`) including task intake clarification (`clarify-confirm-continue`), anti-slop PR auditing, sidequest tangency isolation, and ERP pricing sync.
+3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of 16 standard agent skills (`agentskills.io`) including task intake clarification (`clarify-confirm-continue`), 20+ language code reviews (`code-review`), and ERP sync.
+4. **🤖 [`vibe-agency`](https://github.com/shahrukh-hack/vibe-agency)** — *The Autonomous Team Orchestrator:* Define agent roles in Markdown, schedule overnight data pipelines on a heartbeat cron, and delegate tasks between agents via inter-agent inbox queues. ([Live Web Console](https://shahrukh-hack.github.io/vibe-agency/))
 
 ---
 
@@ -65,6 +66,7 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 | :--- | :--- | :--- | :--- |
 | **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders & Antigravity agents. |
 | **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Codebase AST Intelligence Protocol for AI Agents. |
+| **🤖 Vibe Agency** | [`shahrukh-hack/vibe-agency`](https://github.com/shahrukh-hack/vibe-agency) | **[Live Demo](https://shahrukh-hack.github.io/vibe-agency/)** | Autonomous Multi-Agent Team Orchestrator & Live Web Console. |
 | **⚡ Vibe Skills** | [`shahrukh-hack/vibe-skills`](https://github.com/shahrukh-hack/vibe-skills) | [`GitHub`](https://github.com/shahrukh-hack/vibe-skills) | Curated Standard Agent Skills (`agentskills.io`) for Antigravity, Cursor & Claude. |
 | **📈 Lakshmi AI** | [`shahrukh-hack/lakhsmiAI`](https://github.com/shahrukh-hack/lakhsmiAI) | **[Live Demo](https://shahrukh-hack.github.io/lakhsmiAI/)** | Stock market forecasting & financial intelligence dashboard with ApexCharts. |
 | **🌬️ LCA Wind Turbine** | [`shahrukh-hack/LCA-bolt`](https://github.com/shahrukh-hack/LCA-bolt) | **[Live Demo](https://shahrukh-hack.github.io/LCA-bolt/)** | Wind turbine Life Cycle Assessment with D3 Sankey carbon flow diagrams. |
@@ -189,7 +191,7 @@ graph LR
 | :--- | :--- |
 | **Marketing & Growth** | `Web Strategy` `Conversion Optimization (CRO)` `Campaign Coordination` `SEO & Performance` `Digital Analytics` |
 | **Frontend & Design** | `React 19` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI` `Lenis` `D3.js` `VisX` |
-| **AI & LLM Workflows** | `Autonomous Agents` `RAG Pipelines` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
+| **AI & LLM Workflows** | `Autonomous Agents` `Multi-Agent Teams` `RAG Pipelines` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
 | **Backend & Automation** | `Python` `FastAPI` `PHP` `Node.js` `REST APIs` `PostgreSQL` `SQLite` `MYOB API` |
 | **Tooling & Cloud** | `Git` `GitHub Actions` `Docker` `Vite` `VS Code` `Cursor` `Linux` `Terminal` |
 
