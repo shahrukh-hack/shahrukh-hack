@@ -41,33 +41,68 @@ I am an AI developer and design engineer based in **Adelaide, South Australia**,
 
 ---
 
-## 🏛️ Enterprise Systems Architecture (Commercial Portfolio)
+## 🏛️ Enterprise Systems & Commercial Architecture
 
-Below are architectural breakdowns and technical specifications for proprietary enterprise systems engineered by Yogeshkumar Patel:
+Below are in-depth technical specifications and architectural workflows for private enterprise systems engineered by Yogeshkumar Patel:
 
 ---
 
-### 💼 1. Enterprise ERP & Competitor Price Sync (`myob_price_sync` & `competitor_price_tracker`)
-> **Domain:** E-Commerce, Wholesale & Retail Pricing Intelligence
+### 📊 1. Excel-Driven Competitor Price Tracker (`competitor_price_tracker`)
+> **Domain:** Automated E-Commerce Scraping & Spreadsheet Reporting
 
-* **The Challenge:** Retailers lost revenue from lagging competitor price adjustments and manual inventory entry into MYOB ERP.
-* **The Solution:** Built a distributed headless scraping engine with relational persistence that continuously monitors market price deltas and automatically synchronizes price updates via the MYOB Cloud REST API.
-* **Tech Stack:** `Python` • `FastAPI` • `PostgreSQL` • `MYOB API Webhooks` • `Playwright`
+* **The Problem:** Merchandisers needed a lightweight way to monitor competitor price shifts from daily email feeds and Excel price lists without modifying their existing spreadsheet workflow.
+* **The Solution:** Engineered an automated Python tracking engine with email alert parsers (`email_fetcher.py`), scheduled background workers (`scheduler.py`), and price difference recalculators (`price_updater.py`) exporting clean comparative Excel/CSV reports.
+* **Tech Stack:** `Python 3` • `Pandas` • `OpenPyXL` • `BeautifulSoup4` • `Async Scheduler`
 
 ```mermaid
 graph LR
-    A[Competitor SKUs] -->|Automated Scraper| B[Data Normalizer Engine]
-    B --> C[(Relational DB)]
-    C --> D[Price Delta Margin Analyzer]
-    D -->|REST API Webhook| E[MYOB Enterprise ERP]
+    A[Excel SKU Master / Email Feeds] -->|email_fetcher.py| B[Price Scraper Engine]
+    B --> C[price_updater.py Delta Engine]
+    C --> D[scheduler.py Daemon]
+    D --> E[Clean Comparative Excel / CSV Reports]
 ```
 
 ---
 
-### 🚗 2. South Australia Smart Fleet & Driver Hub (`sa-drive-smart-hub`)
+### 🗄️ 2. Database-Backed Retail Intelligence & Arbitrage Engine (`competitor_price_tracker_db`)
+> **Domain:** Multi-Retailer Scraping, Relational Database & Real-Time Analytics
+
+* **The Problem:** Enterprise retail businesses tracking thousands of electronics SKUs across multiple major Australian retailers (Scorptec, Umart, JB Hi-Fi, Centre Com, JW, The Good Guys) required a persistent relational database, category-level margin tracking, and price arbitrage analytics.
+* **The Solution:** Architected a high-throughput scraping engine backed by a relational SQLite database (`price_tracker.db`), modular scraper workers, an automated analytics manager (`analytics_manager.py`), and an interactive web dashboard with price history and monopoly detection.
+* **Tech Stack:** `Python` • `SQLite / SQLAlchemy` • `FastAPI / REST` • `Playwright / Chromium` • `Chart.js`
+
+```mermaid
+graph LR
+    A[Australian Retailers: Umart, Scorptec, JB Hi-Fi, Centre Com] -->|Headless Scrapers| B[Data Normalization Pipeline]
+    B --> C[(Relational DB: price_tracker.db)]
+    C --> D[analytics_manager.py]
+    D --> E[Arbitrage & Monopoly Detection]
+    D --> F[Live Analytics Web Dashboard]
+```
+
+---
+
+### ⚡ 3. Excel-to-MYOB ERP Cloud Price Sync Engine (`myob_price_sync`)
+> **Domain:** Financial & Enterprise ERP Automation Pipeline
+
+* **The Problem:** Finance and inventory teams spent hours manually re-typing approved Excel supplier price sheets into MYOB ERP, resulting in margin errors and fulfillment delays.
+* **The Solution:** Engineered a dedicated Excel-to-ERP bridge (`price_reader.py`) that validates spreadsheet data, handles currency/tax normalization, and automatically commits bulk item price updates to MYOB AccountRight / Essentials via the official MYOB REST API (`myob_client.py`) with token refresh and rate limiting.
+* **Tech Stack:** `Python` • `MYOB Cloud REST API` • `OAuth2 Integration` • `OpenPyXL` • `FastAPI Webhook Bridge`
+
+```mermaid
+graph LR
+    A[Approved Excel Supplier Price Sheets] -->|price_reader.py Validation| B[Price Normalization Engine]
+    B --> C[myob_client.py with OAuth2 & Token Refresh]
+    C -->|Secure REST API Webhooks| D[MYOB Enterprise Cloud ERP]
+    D --> E[Live Synchronized Inventory & Invoicing]
+```
+
+---
+
+### 🚗 4. South Australia Smart Fleet & Driver Hub (`sa-drive-smart-hub`)
 > **Domain:** Regional Mobility, Logistics & Transport Compliance (Adelaide, SA)
 
-* **The Challenge:** Dispatchers required real-time corridor monitoring, driver duty compliance, and incident telemetry across South Australian transport routes.
+* **The Problem:** Fleet dispatchers required real-time corridor monitoring, driver duty compliance, and incident telemetry across South Australian transport routes.
 * **The Solution:** Engineered a responsive fleet management platform featuring dynamic route corridor filtering, status metrics, and geofencing telemetry.
 * **Tech Stack:** `React 18` • `TypeScript` • `Tailwind CSS` • `Mapbox/Leaflet` • `Lucide`
 
@@ -80,10 +115,10 @@ graph LR
 
 ---
 
-### 🌬️ 3. Aerodynamic Airflow & Turbine Yield Analytics (`wind-flow-insights`)
+### 🌬️ 5. Aerodynamic Airflow & Turbine Yield Analytics (`wind-flow-insights`)
 > **Domain:** Renewable Energy & Environmental Modeling
 
-* **The Challenge:** Stakeholders needed an intuitive interface to model wind turbine power yields based on real-time meteorological vector fields.
+* **The Problem:** Stakeholders needed an intuitive interface to model wind turbine power yields based on real-time meteorological vector fields.
 * **The Solution:** Developed a mathematical vector animation dashboard that simulates laminar wind velocity, turbine efficiency curves, and estimated power generation (MW).
 * **Tech Stack:** `React` • `TypeScript` • `D3.js` • `Vector Mathematics` • `Tailwind CSS`
 
@@ -96,10 +131,10 @@ graph LR
 
 ---
 
-### 🏢 4. CNC Corporate IT Services & E-Commerce Platform (`cncnew-website`)
+### 🏢 6. CNC Corporate IT Services & E-Commerce Platform (`cncnew-website`)
 > **Domain:** Enterprise Managed IT, Disaster Recovery, Cloud Security & IT Hardware Shop (Adelaide, SA)
 
-* **The Challenge:** An established South Australian managed IT service provider needed a modern, high-performance web portal integrating enterprise service catalogs (Disaster Recovery, Network Management, Server Solutions), live hardware inventory feeds, automated quote generators, and an intelligent AI customer support chat engine.
+* **The Problem:** An established South Australian managed IT service provider needed a modern, high-performance web portal integrating enterprise service catalogs (Disaster Recovery, Network Management, Server Solutions), live hardware inventory feeds, automated quote generators, and an intelligent AI customer support chat engine.
 * **The Solution:** Architected a comprehensive full-stack corporate portal featuring dynamic product catalogs (`products.json`), automated inventory feed synchronizers (`sync_feed.php`), instant quote generation workflows (`send_quote.php`), customer survey engines, and an integrated AI support assistant (`ai_chat.php`).
 * **Tech Stack:** `PHP Backend` • `JavaScript (ES6+)` • `Tailwind CSS` • `REST Endpoints` • `AI Chatbot Integration` • `Automated Survey Engines`
 
@@ -120,7 +155,7 @@ graph LR
 | :--- | :--- |
 | **Frontend & Design** | `React 19` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI` `Lenis` `D3.js` `VisX` |
 | **AI & LLM Workflows** | `Autonomous Agents` `RAG Pipelines` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
-| **Backend & Automation** | `Python` `FastAPI` `PHP` `Node.js` `REST APIs` `PostgreSQL` `Data Scraping & Sync` `MYOB API` |
+| **Backend & Automation** | `Python` `FastAPI` `PHP` `Node.js` `REST APIs` `PostgreSQL` `SQLite` `MYOB API` |
 | **Tooling & Cloud** | `Git` `GitHub Actions` `Docker` `Vite` `VS Code` `Cursor` `Linux` `Terminal` |
 
 ---
