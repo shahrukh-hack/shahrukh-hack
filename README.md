@@ -57,6 +57,7 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" on conversation resets, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%** via AST symbol indexing. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
 3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of **50 standard agent skills** (`agentskills.io`) and **10 UI framework playbooks** (Shadcn, Framer Motion, Emil Kowalski, Origin UI, cmdk, Aceternity, Lenis, Lucide, UI UX Pro Max, 21st.dev) with 1-command CLI (`npx vibe-skills add <skill>`).
 4. **🤖 [`vibe-agency`](https://github.com/shahrukh-hack/vibe-agency)** — *The Autonomous Team Orchestrator:* Define agent roles in Markdown, schedule overnight data pipelines on a heartbeat cron, and delegate tasks between agents via inter-agent inbox queues. ([Live Web Console](https://shahrukh-hack.github.io/vibe-agency/))
+5. **🌐 [`vibe-wp`](https://github.com/shahrukh-hack/vibe-wp)** — *The WordPress MCP Engine:* Direct PHP runtime execution, WooCommerce product & inventory controls, and Gutenberg React block scaffolding for Antigravity, Cursor, and Claude Code. ([Live Sandbox](https://shahrukh-hack.github.io/vibe-wp/))
 
 ---
 
@@ -66,6 +67,7 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 | :--- | :--- | :--- | :--- |
 | **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders (26 Components). |
 | **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Codebase AST Intelligence (97% Token Reduction). |
+| **🌐 Vibe WP** | [`shahrukh-hack/vibe-wp`](https://github.com/shahrukh-hack/vibe-wp) | **[Live Demo](https://shahrukh-hack.github.io/vibe-wp/)** | Universal MCP Server & Runtime for WordPress, WooCommerce & ACF. |
 | **🤖 Vibe Agency** | [`shahrukh-hack/vibe-agency`](https://github.com/shahrukh-hack/vibe-agency) | **[Live Demo](https://shahrukh-hack.github.io/vibe-agency/)** | Autonomous Multi-Agent Team Orchestrator & Live Web Console. |
 | **⚡ Vibe Skills** | [`shahrukh-hack/vibe-skills`](https://github.com/shahrukh-hack/vibe-skills) | [`GitHub`](https://github.com/shahrukh-hack/vibe-skills) | Mega-Library of 50 Standard Agent Skills & 10 UI Framework Playbooks. |
 | **📈 Lakshmi AI** | [`shahrukh-hack/lakhsmiAI`](https://github.com/shahrukh-hack/lakhsmiAI) | **[Live Demo](https://shahrukh-hack.github.io/lakhsmiAI/)** | Stock market forecasting & financial intelligence dashboard with ApexCharts. |
