@@ -31,33 +31,33 @@ I am a **Web & Marketing Coordinator at HYKA Technology** and an **AI Developer 
 
 ---
 
-## 🏄‍♂️ The Vibe Coder's Power Suite (4 Flagship Open-Source Engines)
+## 🏄‍♂️ The Vibe Coder's Power Suite (5 Flagship Open-Source Engines)
 
-A complete open-source developer ecosystem engineered to empower modern **Vibe Coders** and autonomous AI agents with **impeccable visual taste, persistent memory, battle-tested guardrails, and autonomous team orchestration**:
+A complete open-source developer ecosystem engineered to empower modern **Vibe Coders** and autonomous AI agents with **impeccable visual taste, persistent memory, battle-tested guardrails, enterprise WordPress/WooCommerce intelligence, and autonomous team orchestration**:
 
 ```
-                                    ┌────────────────────────────────────────┐
-                                    │       THE VIBE CODER'S POWER SUITE     │
-                                    └───────────────────┬────────────────────┘
-                                                        │
-         ┌──────────────────────────────┬───────────────┴──────────────┬──────────────────────────────┐
-         ▼                              ▼                              ▼                              ▼
-┌───────────────────┐          ┌───────────────────┐          ┌───────────────────┐          ┌───────────────────┐
-│ 🪄 VIBE SUPERKIT  │          │  🧠 VIBE MEMORY   │          │  ⚡ VIBE SKILLS   │          │  🤖 VIBE AGENCY   │
-│   "The Visuals"   │          │    "The Brain"    │          │ "The Guardrails"  │          │ "The Orchestrator"│
-├───────────────────┤          ├───────────────────┤          ├───────────────────┤          ├───────────────────┤
-│ • Anti-AI Slop    │          │ • Long-Term Memory│          │ • 50 Standard     │          │ • Multi-Agent     │
-│ • Spring Physics  │          │ • Cross-Agent     │          │   Agent Skills    │          │   Teams & Roles   │
-│ • 26 Components   │          │   Handoffs        │          │ • 10 UI Framework │          │ • Inter-Agent     │
-│ • Stripe UI Style │          │ • 97% Token Save  │          │   Playbooks       │          │   Inbox & Cron    │
-└───────────────────┘          └───────────────────┘          └───────────────────┘          └───────────────────┘
+                                    ┌────────────────────────────────────────────────────────┐
+                                    │              THE VIBE CODER'S POWER SUITE              │
+                                    └───────────────────────────┬────────────────────────────┘
+                                                                │
+         ┌──────────────────────────────┬───────────────────────┼───────────────────────┬──────────────────────────────┐
+         ▼                              ▼                       ▼                       ▼                              ▼
+┌───────────────────┐          ┌───────────────────┐   ┌───────────────────┐   ┌───────────────────┐          ┌───────────────────┐
+│ 🪄 VIBE SUPERKIT  │          │  🧠 VIBE MEMORY   │   │   🌐 VIBE WP      │   │  ⚡ VIBE SKILLS   │          │  🤖 VIBE AGENCY   │
+│   "The Visuals"   │          │    "The Brain"    │   │  "WordPress MCP"  │   │ "The Guardrails"  │          │ "The Orchestrator"│
+├───────────────────┤          ├───────────────────┤   ├───────────────────┤   ├───────────────────┤          ├───────────────────┤
+│ • Anti-AI Slop    │          │ • Long-Term Memory│   │ • AI Attribute    │   │ • 50 Standard     │          │ • Multi-Agent     │
+│ • Spring Physics  │          │ • GraphRAG & Mem0 │   │   Extractor (16x) │   │   Agent Skills    │          │   Teams & Roles   │
+│ • 26 Components   │          │ • 97% Token Save  │   │ • Amazon SP-API   │   │ • 10 UI Framework │          │ • Inter-Agent     │
+│ • Stripe UI Style │          │ • Cross-IDE State │   │ • 38 WP Plugins   │   │   Playbooks       │          │   Inbox & Cron    │
+└───────────────────┘          └───────────────────┘   └───────────────────┘   └───────────────────┘          └───────────────────┘
 ```
 
 1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) with Emil Kowalski spring physics, 26 production components, and Stripe/Tailwind UI design standards. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
-2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" on conversation resets, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%** via AST symbol indexing. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
-3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of **50 standard agent skills** (`agentskills.io`) and **10 UI framework playbooks** (Shadcn, Framer Motion, Emil Kowalski, Origin UI, cmdk, Aceternity, Lenis, Lucide, UI UX Pro Max, 21st.dev) with 1-command CLI (`npx vibe-skills add <skill>`).
-4. **🤖 [`vibe-agency`](https://github.com/shahrukh-hack/vibe-agency)** — *The Autonomous Team Orchestrator:* Define agent roles in Markdown, schedule overnight data pipelines on a heartbeat cron, and delegate tasks between agents via inter-agent inbox queues. ([Live Web Console](https://shahrukh-hack.github.io/vibe-agency/))
-5. **🌐 [`vibe-wp`](https://github.com/shahrukh-hack/vibe-wp)** — *The WordPress MCP Engine:* Direct PHP runtime execution, WooCommerce product & inventory controls, and Gutenberg React block scaffolding for Antigravity, Cursor, and Claude Code. ([Live Sandbox](https://shahrukh-hack.github.io/vibe-wp/))
+2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" with **Mem0 Adaptive Learning** & **Microsoft GraphRAG**, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%**. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
+3. **🌐 [`vibe-wp`](https://github.com/shahrukh-hack/vibe-wp)** — *The WordPress MCP & E-Commerce Engine:* Includes the **WooCommerce AI Attribute Extractor** (covering 16 commercial categories + full **Amazon Seller Central SP-API** compliance: Brand, MPN, Hazmat UN3481, AU Type I Plug), **38 WordPress ecosystem specializations**, WSOD safe PHP sandbox, headless TypeScript generator, and SQL optimizer. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-wp/))
+4. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of **50 standard agent skills** (`agentskills.io`) and **10 UI framework playbooks** (Shadcn, Framer Motion, Emil Kowalski, Origin UI, cmdk, Aceternity, Lenis, Lucide, UI UX Pro Max, 21st.dev) with 1-command CLI (`npx vibe-skills add <skill>`).
+5. **🤖 [`vibe-agency`](https://github.com/shahrukh-hack/vibe-agency)** — *The Autonomous Team Orchestrator:* Define agent roles in Markdown, schedule overnight data pipelines on a heartbeat cron, and delegate tasks between agents via inter-agent inbox queues. ([Live Web Console](https://shahrukh-hack.github.io/vibe-agency/))
 
 ---
 
@@ -65,9 +65,9 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 
 | Project | GitHub Repository | 🌐 Standalone Live Demo | Description |
 | :--- | :--- | :--- | :--- |
+| **🌐 Vibe WP** | [`shahrukh-hack/vibe-wp`](https://github.com/shahrukh-hack/vibe-wp) | **[Live Demo](https://shahrukh-hack.github.io/vibe-wp/)** | Universal MCP Server for WordPress, WooCommerce AI Attribute Extractor (16 Categories + Amazon SP-API) & 38 Plugins. |
 | **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders (26 Components). |
-| **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Codebase AST Intelligence (97% Token Reduction). |
-| **🌐 Vibe WP** | [`shahrukh-hack/vibe-wp`](https://github.com/shahrukh-hack/vibe-wp) | **[Live Demo](https://shahrukh-hack.github.io/vibe-wp/)** | Universal MCP Server & Runtime for WordPress, WooCommerce & ACF. |
+| **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory with Mem0 Adaptive Learning & Microsoft GraphRAG (97% Token Reduction). |
 | **🤖 Vibe Agency** | [`shahrukh-hack/vibe-agency`](https://github.com/shahrukh-hack/vibe-agency) | **[Live Demo](https://shahrukh-hack.github.io/vibe-agency/)** | Autonomous Multi-Agent Team Orchestrator & Live Web Console. |
 | **⚡ Vibe Skills** | [`shahrukh-hack/vibe-skills`](https://github.com/shahrukh-hack/vibe-skills) | [`GitHub`](https://github.com/shahrukh-hack/vibe-skills) | Mega-Library of 50 Standard Agent Skills & 10 UI Framework Playbooks. |
 | **📈 Lakshmi AI** | [`shahrukh-hack/lakhsmiAI`](https://github.com/shahrukh-hack/lakhsmiAI) | **[Live Demo](https://shahrukh-hack.github.io/lakhsmiAI/)** | Stock market forecasting & financial intelligence dashboard with ApexCharts. |
@@ -153,23 +153,7 @@ graph LR
 
 ---
 
-### 🌬️ 5. Aerodynamic Airflow & Turbine Yield Analytics (`wind-flow-insights`)
-> **Domain:** Renewable Energy & Environmental Modeling
-
-* **The Problem:** Stakeholders needed an intuitive interface to model wind turbine power yields based on real-time meteorological vector fields.
-* **The Solution:** Developed a mathematical vector animation dashboard that simulates laminar wind velocity, turbine efficiency curves, and estimated power generation (MW).
-* **Tech Stack:** `React` • `TypeScript` • `D3.js` • `Vector Mathematics` • `Tailwind CSS`
-
-```mermaid
-graph LR
-    A[Meteorological Sensors] -->|Wind Velocity & Vectors| B[Aerodynamic Engine]
-    B --> C[Turbine Efficiency Model]
-    C --> D[Power Yield Forecast MW]
-```
-
----
-
-### 🏢 6. CNC Corporate IT Services & E-Commerce Platform (`cncnew-website`)
+### 🏢 5. CNC Corporate IT Services & E-Commerce Platform (`cncnew-website`)
 > **Domain:** Enterprise Managed IT, Disaster Recovery, Cloud Security & IT Hardware Shop (Adelaide, SA)
 
 * **The Problem:** An established South Australian managed IT service provider needed a modern, high-performance web portal integrating enterprise service catalogs (Disaster Recovery, Network Management, Server Solutions), live hardware inventory feeds, automated quote generators, and an intelligent AI customer support chat engine.
@@ -193,8 +177,8 @@ graph LR
 | :--- | :--- |
 | **Marketing & Growth** | `Web Strategy` `Conversion Optimization (CRO)` `Campaign Coordination` `SEO & Performance` `Digital Analytics` |
 | **Frontend & Design** | `React 19` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Radix UI` `Lenis` `D3.js` `VisX` |
-| **AI & LLM Workflows** | `Autonomous Agents` `Multi-Agent Teams` `RAG Pipelines` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
-| **Backend & Automation** | `Python` `FastAPI` `PHP` `Node.js` `REST APIs` `PostgreSQL` `SQLite` `MYOB API` |
+| **AI & LLM Workflows** | `Autonomous Agents` `Multi-Agent Teams` `GraphRAG & Mem0` `Antigravity` `OpenAI` `Claude` `Gemini` `MCP Protocol` |
+| **Backend & Automation** | `Python` `FastAPI` `PHP / WordPress` `Node.js` `REST APIs` `PostgreSQL` `SQLite` `MYOB API` |
 | **Tooling & Cloud** | `Git` `GitHub Actions` `Docker` `Vite` `VS Code` `Cursor` `Linux` `Terminal` |
 
 ---
