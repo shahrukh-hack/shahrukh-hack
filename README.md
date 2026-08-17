@@ -5,7 +5,7 @@
 **Adelaide, South Australia 🇦🇺**
 
 <p align="center">
-  <em>"Bridging high-impact digital marketing, conversion-focused web development, autonomous AI workflows, and resilient enterprise systems."</em>
+  <em>"Bridging high-impact digital marketing strategy, conversion-focused web engineering, autonomous AI agent architectures, and resilient enterprise automation systems."</em>
 </p>
 
 [![Company](https://img.shields.io/badge/Current%20Role-Web%20%26%20Marketing%20Coordinator%20%40%20HYKA%20Technology-0052CC?style=for-the-badge&logo=google-cloud)](https://www.linkedin.com/in/yogeshkumar-ai/)
@@ -24,7 +24,7 @@
 
 I am a **Web & Marketing Coordinator at HYKA Technology** and an **AI Developer & Design Engineer** based in **Adelaide, South Australia**. I combine strategic marketing coordination with modern full-stack web engineering, physics-based UI/UX design, and autonomous AI automation.
 
-- 💼 **Web & Marketing Coordination @ HYKA Technology:** Driving digital brand presence, coordinating conversion-driven web initiatives, campaign execution, and technical marketing systems.
+- 💼 **Web & Marketing Coordination @ HYKA Technology:** Driving digital brand growth, coordinating conversion-driven web initiatives, campaign execution, CRO, and technical marketing systems.
 - 🪄 **High-Taste Design Engineering:** Eradicating robotic "AI slop" by engineering physics-based animations (Framer Motion / Emil Kowalski spring curves), bespoke typography pairings, and tactile interfaces.
 - 🤖 **Autonomous AI Agents & RAG:** Building intelligent LLM pipelines, autonomous multi-agent workflows, and custom MCP tools using Antigravity, OpenAI, Claude, and Gemini.
 - 🏢 **Enterprise Automation & Data Pipelines:** Architecting business automation engines, price scrapers, and ERP data synchronization systems.
@@ -46,16 +46,16 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 │ 🪄 VIBE SUPERKIT  │          │  🧠 VIBE MEMORY   │          │  ⚡ VIBE SKILLS   │          │  🤖 VIBE AGENCY   │
 │   "The Visuals"   │          │    "The Brain"    │          │ "The Guardrails"  │          │ "The Orchestrator"│
 ├───────────────────┤          ├───────────────────┤          ├───────────────────┤          ├───────────────────┤
-│ • Anti-AI Slop    │          │ • Long-Term Memory│          │ • 16 Standard     │          │ • Multi-Agent     │
+│ • Anti-AI Slop    │          │ • Long-Term Memory│          │ • 50 Standard     │          │ • Multi-Agent     │
 │ • Spring Physics  │          │ • Cross-Agent     │          │   Agent Skills    │          │   Teams & Roles   │
-│ • 4 Design Themes │          │   Handoffs        │          │ • Clarify & Guard │          │ • Inter-Agent     │
-│ • UI Primitives   │          │ • 97% Token Save  │          │ • Code Review 20+ │          │   Inbox & Cron    │
+│ • 26 Components   │          │   Handoffs        │          │ • 10 UI Framework │          │ • Inter-Agent     │
+│ • Stripe UI Style │          │ • 97% Token Save  │          │   Playbooks       │          │   Inbox & Cron    │
 └───────────────────┘          └───────────────────┘          └───────────────────┘          └───────────────────┘
 ```
 
-1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) with Emil Kowalski spring physics, 4 design themes, and high-taste UI primitives. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
+1. **🪄 [`vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit)** — *The Visual Engine:* Banishes generic AI-slop (purple glows, un-tracked type, cliché bento boxes) with Emil Kowalski spring physics, 26 production components, and Stripe/Tailwind UI design standards. ([Live Interactive Demo](https://shahrukh-hack.github.io/vibe-superkit/))
 2. **🧠 [`vibe-memory`](https://github.com/shahrukh-hack/vibe-memory)** — *The Brain & AST Intelligence:* Solves "AI amnesia" on conversation resets, enables zero-friction handoffs across Antigravity ↔ Cursor ↔ Claude Code, and cuts context tokens by **97%** via AST symbol indexing. ([Live Graph Visualizer](https://shahrukh-hack.github.io/vibe-memory/))
-3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of 16 standard agent skills (`agentskills.io`) including task intake clarification (`clarify-confirm-continue`), 20+ language code reviews (`code-review`), and ERP sync.
+3. **⚡ [`vibe-skills`](https://github.com/shahrukh-hack/vibe-skills)** — *The Autonomous Guardrails:* Mega-library of **50 standard agent skills** (`agentskills.io`) and **10 UI framework playbooks** (Shadcn, Framer Motion, Emil Kowalski, Origin UI, cmdk, Aceternity, Lenis, Lucide, UI UX Pro Max, 21st.dev) with 1-command CLI (`npx vibe-skills add <skill>`).
 4. **🤖 [`vibe-agency`](https://github.com/shahrukh-hack/vibe-agency)** — *The Autonomous Team Orchestrator:* Define agent roles in Markdown, schedule overnight data pipelines on a heartbeat cron, and delegate tasks between agents via inter-agent inbox queues. ([Live Web Console](https://shahrukh-hack.github.io/vibe-agency/))
 
 ---
@@ -64,10 +64,10 @@ A complete open-source developer ecosystem engineered to empower modern **Vibe C
 
 | Project | GitHub Repository | 🌐 Standalone Live Demo | Description |
 | :--- | :--- | :--- | :--- |
-| **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders & Antigravity agents. |
-| **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Codebase AST Intelligence Protocol for AI Agents. |
+| **🪄 Vibe Superkit** | [`shahrukh-hack/vibe-superkit`](https://github.com/shahrukh-hack/vibe-superkit) | **[Live Demo](https://shahrukh-hack.github.io/vibe-superkit/)** | Anti-AI Slop & High-Taste Design Engine for Vibe Coders (26 Components). |
+| **🧠 Vibe Memory** | [`shahrukh-hack/vibe-memory`](https://github.com/shahrukh-hack/vibe-memory) | **[Live Demo](https://shahrukh-hack.github.io/vibe-memory/)** | Universal Long-Term Memory & Codebase AST Intelligence (97% Token Reduction). |
 | **🤖 Vibe Agency** | [`shahrukh-hack/vibe-agency`](https://github.com/shahrukh-hack/vibe-agency) | **[Live Demo](https://shahrukh-hack.github.io/vibe-agency/)** | Autonomous Multi-Agent Team Orchestrator & Live Web Console. |
-| **⚡ Vibe Skills** | [`shahrukh-hack/vibe-skills`](https://github.com/shahrukh-hack/vibe-skills) | [`GitHub`](https://github.com/shahrukh-hack/vibe-skills) | Curated Standard Agent Skills (`agentskills.io`) for Antigravity, Cursor & Claude. |
+| **⚡ Vibe Skills** | [`shahrukh-hack/vibe-skills`](https://github.com/shahrukh-hack/vibe-skills) | [`GitHub`](https://github.com/shahrukh-hack/vibe-skills) | Mega-Library of 50 Standard Agent Skills & 10 UI Framework Playbooks. |
 | **📈 Lakshmi AI** | [`shahrukh-hack/lakhsmiAI`](https://github.com/shahrukh-hack/lakhsmiAI) | **[Live Demo](https://shahrukh-hack.github.io/lakhsmiAI/)** | Stock market forecasting & financial intelligence dashboard with ApexCharts. |
 | **🌬️ LCA Wind Turbine** | [`shahrukh-hack/LCA-bolt`](https://github.com/shahrukh-hack/LCA-bolt) | **[Live Demo](https://shahrukh-hack.github.io/LCA-bolt/)** | Wind turbine Life Cycle Assessment with D3 Sankey carbon flow diagrams. |
 | **🌐 Siddheshwar Sai Infotech** | [`shahrukh-hack/ssi`](https://github.com/shahrukh-hack/ssi) | **[Live Demo](https://shahrukh-hack.github.io/ssi/)** | Enterprise IT consulting, cloud infrastructure, and AI solutions web portal. |
@@ -203,8 +203,8 @@ graph LR
 Name: Yogeshkumar Patel
 Current Role: Web & Marketing Coordinator @ HYKA Technology
 Location: Adelaide, South Australia (ACST / UTC+9:30)
-Core Focus: Web Development, Marketing Coordination, AI Systems & Design Engineering
-Primary Stack: TypeScript, React, Next.js, Python, Tailwind, Framer Motion, PHP
+Core Focus: Web Strategy, Marketing Coordination, AI Systems & Design Engineering
+Primary Stack: TypeScript, React, Next.js, Python, Tailwind CSS, Framer Motion, PHP
 Specialties: Digital Marketing Systems, Autonomous Agents, High-Taste UI/UX, ERP Integration
 LinkedIn: https://www.linkedin.com/in/yogeshkumar-ai/
 Open For: High-Impact AI Projects, Technical Consultations & Full-Stack Collaboration
